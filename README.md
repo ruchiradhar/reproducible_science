@@ -10,10 +10,10 @@ A course prepared by Dr Melanie Ganz and Dr Cyril Pernet. The course structure i
 
 ### Day 1 - Data Collection and data storage
 
-- Introduction to reproducibility: [Definitions and origins] (CP) 
-- How do you store data on your computer? [Data structures and data naming] (CP)
-- Data provenance: [keeping track of where data are coming from] (MG)
-- [Reproducibility is hard]: [case studies](http://www.practicereproducibleresearch.org/core-chapters/4-casestudies.html) (all)
+- Introduction to reproducibility: [Definitions and origins](./lecture_slides/1.01_Definitions&Origins.pdf) (CP) 
+- How do you store data on your computer? [Data structures and data naming](./lecture_slides/1.02_StoringData&Code.pdf) (CP)
+- Data provenance: [keeping track of where data are coming from](./lecture_slides/1.03_DataProvenance.pdf) and [exercise](./provenance/ProvenanceInPractice.ipynb) (MG)
+- [Reproducibility is hard](./lecture_slides/1.04_ReproducibilityIsHard.pdf): [case studies](http://www.practicereproducibleresearch.org/core-chapters/4-casestudies.html) (all)
 
 ### Day 2 - Reproducible designs, protocols and pre-registration
 
