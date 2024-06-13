@@ -1,10 +1,15 @@
 # ReproducibleQuantitativeDataScience
 
-A course prepared by Dr Melanie Ganz and Dr Cyril Pernet. The course structure is over 5 days plus personal work: 2 days, course work, 2 days, course work, and 1 day with presentations.
+This repository is primarily bsed on the course [Reproducible Quantitative Data Science](https://github.com/melanieganz/ReproducibleQuantitativeDataScience-2024) and contains additional useful information on getting started with creating your own repositories based on Open Science principles. 
 
-**For teachers**: We expect students to join the course several months after starting their PhD allowing them to already have data and some code. This will allow them to apply the concepts developed to their own data and code. It is also expected to have a platform to interact with students via a 'wall' with notes. 
+## Step 1: Create project folder
+## Step 2: Create environment 
+## Step 3: Create README.md 
 
-**For students**: During the course, active participation is expected. In session 1, we'll use [padlet](https://padlet.com/dashboard) to interact with each other (anonymous posting allowed) and also do group work. In session 2, we use GitHub (that you learn in session 1) to share code and review each other code. It is recommended to share something you are working on, but if you feel uncomfortable with that, prepare something to be shared/reviewed. In session 3, you must present in front of everybody. While it may feel uncomfortable, it is expected from any PhD student to be able to do so, and not just for this course. In general, there are no rights and wrongs in trying to improve reproducibility, it is only expected that you try given the conceptual and practical tools presented.
+## Some Useful Commands: 
+
+1. Opening a file: `cat filename.txt` (alternative use head/tail/less/more)
+2. Creating a requirements.txt: `conda list -e > requirements.txt` or `conda env export > requirements.yml`
 
 ## Part 1
 
