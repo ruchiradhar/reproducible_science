@@ -12,12 +12,12 @@ A course prepared by Dr Melanie Ganz and Dr Cyril Pernet. The course structure i
 
 - Introduction to reproducibility: [Definitions and origins] (CP) 
 - How do you store data on your computer? [Data structures and data naming] (CP)
-- Data provenance: [keeping track of where data are coming from](MG)
+- Data provenance: [keeping track of where data are coming from] (MG)
 - [Reproducibility is hard]: [case studies](http://www.practicereproducibleresearch.org/core-chapters/4-casestudies.html) (all)
 
 ### Day 2 - Reproducible designs, protocols and pre-registration
 
-- [Concepts and tools for protocol documentation, and study pre-registration](CP)
+- [Concepts and tools for protocol documentation, and study pre-registration] (CP)
 - [Ethic and GDPR] - lecture and practical case reviews (CP )
 - [Using markdown] for documentation - practical (MG)
 - [Version control and social coding with Git] see the [quick sheet](https://github.com/CPernet/Quicksheets/blob/main/git_github/git.mkd) and GitHub - practical, split into novice/advanced groups (all) 
