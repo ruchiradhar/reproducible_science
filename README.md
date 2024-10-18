@@ -40,7 +40,7 @@ Submit your coursework via e-mail to Cyril and Melanie three weeks before the ne
 
 ### Day 4 - Better analyses 
 
-- [Computational reproducibility] (lecture and practical all afternoon - MH, MG & CP as helpers).
+- [Computational reproducibility] (lecture and practical all morning - MH, MG & CP as helpers).
 - [P-hacking] your data (CP)
 - Time to update your code - push code here, review each other work, present, discuss with teachers (students do the work)
 
