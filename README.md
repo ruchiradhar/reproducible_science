@@ -32,17 +32,17 @@ Submit your coursework via e-mail to Cyril and Melanie three weeks before the ne
 
 ### Day 3 - Better coding 
 
+- Feedback on coursework and discuss further issues to make your PhD reproducible (MG, CP)
 - [Programming] (CP)
 - [Good coding practices] (CP) 
 - [An introduction to computational analysis methods]: permutation, bootstrap, cross-validation, out-of-sample generalization (MG)
-- Time to update your code - push code here, review each other work, present, discuss with teachers (MG & CP)
+- Understanding p-values (see [notebook])
 
 ### Day 4 - Better analyses 
 
+- [Computational reproducibility] (lecture and practical all afternoon - MH, MG & CP as helpers).
 - [P-hacking] your data (CP)
-- Understanding p-values (see [notebook])
-- Feedback on coursework and discuss further issues to make your PhD reproducible (MG, CP)
-- [Computational reproducibility] (lecture and practical all afternoon - MH). 
+- Time to update your code - push code here, review each other work, present, discuss with teachers (students do the work)
 
 Please prepare before the course:
   - [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container.
