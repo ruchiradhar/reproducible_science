@@ -22,7 +22,7 @@ A course prepared by Dr Melanie Ganz and Dr Cyril Pernet. The course structure i
 - [Using markdown] for documentation - practical (MG)
 - [Version control and social coding with Git] see the [quick sheet](https://github.com/CPernet/Quicksheets/blob/main/git_github/git.mkd) and GitHub - practical, split into novice/advanced groups (all) 
 
-### Course work
+### Course work8
 
 Using your PhD research data, protocol, code, etc, write a report explaining from where you start, and which measures are already in place to increase reproducibility as per concepts presented during days 1 and 2. What measures can be taken to increase reproducibility and if any, why some cannot be implemented? (page count 2 to 3)
 
@@ -40,7 +40,7 @@ Submit your coursework via e-mail to Cyril and Melanie three weeks before the ne
 
 ### Day 4 - Better analyses 
 
-- [Computational reproducibility] (lecture and practical all morning - MH, MG & CP as helpers).
+- [Computational reproducibility](https://files.inm7.de/mih/pres/talks/rdm_reproducibility_copenhagen2023.html#/) lecture and practical all morning (MH, MG & CP as helpers).
 - [P-hacking] your data (CP)
 - Time to update your code - push code here, review each other work, present, discuss with teachers (students do the work)
 
