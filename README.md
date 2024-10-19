@@ -22,7 +22,7 @@ A course prepared by Dr Melanie Ganz and Dr Cyril Pernet. The course structure i
 - [Using markdown] for documentation - practical (MG)
 - [Version control and social coding with Git] see the [quick sheet](https://github.com/CPernet/Quicksheets/blob/main/git_github/git.mkd) and GitHub - practical, split into novice/advanced groups (all) 
 
-### Course work8
+### Course work
 
 Using your PhD research data, protocol, code, etc, write a report explaining from where you start, and which measures are already in place to increase reproducibility as per concepts presented during days 1 and 2. What measures can be taken to increase reproducibility and if any, why some cannot be implemented? (page count 2 to 3)
 
