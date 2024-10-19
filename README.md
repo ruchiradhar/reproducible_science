@@ -52,7 +52,8 @@ Please prepare before the course:
 ### Course work 
 
 Improve code you are using based on the concepts and tools reviewed over the 4 days: from version control and better inline documentation, to functionalization and modern computational statistics.  
-Make a 10 minutes presentation summarizing all of your course works and what measures you have taken to improve reproducibility in your PhD (including work from session 1). 
+
+Make a 10 minutes presentation summarizing all of your course works and what measures you have taken to improve reproducibility in your PhD - include main aspects from session 1, add computational aspects presented in session 2. 
 
 ## Part 3
 
