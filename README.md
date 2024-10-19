@@ -36,7 +36,7 @@ Submit your coursework via e-mail to Cyril and Melanie three weeks before the ne
 - [Programming] (CP)
 - [Good coding practices] (CP) 
 - [An introduction to computational analysis methods]: permutation, bootstrap, cross-validation, out-of-sample generalization (MG)
-- Understanding p-values (see [notebook])
+- Understanding p-values (see [notebook](https://github.com/melanieganz/ReproducibleQuantitativeDataScience-2024/blob/main/p_values/p_values.ipynb))
 
 ### Day 4 - Better analyses 
 
