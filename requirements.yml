@@ -1,4 +1,4 @@
-name: repscienv
+name: resenv
 channels:
   - conda-forge
   - defaults
